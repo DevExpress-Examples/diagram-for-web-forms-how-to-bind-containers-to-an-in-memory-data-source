@@ -1,0 +1,1 @@
+<%@ Application Codebehind="Global.asax.cs" Inherits="DiagramContainers.Global_asax" Language="C#" %>
