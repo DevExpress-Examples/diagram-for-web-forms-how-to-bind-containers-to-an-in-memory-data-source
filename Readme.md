@@ -5,5 +5,5 @@ This example demonstrates how to bind the Diagram control to an in-memory data s
 <!-- default file list -->
 *Files to look at*: 
 * [Default.aspx](./CS/DiagramContainers/Default.aspx)  (VB: [Default.aspx](./VB/DiagramContainers/Default.aspx))
-* [DiagramDataProvider.cs](./CS/DiagramContainers/DiagramDataProvider.cs) (VB: [DiagramDataProvider.vb](./CS/DiagramContainers/DiagramDataProvider.vb))
+* [DiagramDataProvider.cs](./CS/DiagramContainers/DiagramDataProvider.cs) (VB: [DiagramDataProvider.vb](./VB/DiagramContainers/DiagramDataProvider.vb))
 <!-- default file list end -->
