@@ -1,4 +1,7 @@
 # Diagram for Web Forms - How to bind containers to an in-memory data source
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/235782484/)**
+<!-- run online end -->
 
 This example demonstrates how to bind the Diagram control to an in-memory data source and wrap shapes into horizontal and vertical containers. You need to use the [ContainerKey](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxDiagram.DiagramNodeMappingInfo.ContainerKey) property to specify the name of a data source field that provides the key of a shape's parent container shape.
 
