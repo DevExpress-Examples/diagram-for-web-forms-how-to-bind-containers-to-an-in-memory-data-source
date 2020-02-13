@@ -23,7 +23,6 @@
                     <dx:DiagramToolboxGroup Category="Containers" />
                 </Groups>
             </SettingsToolbox>
-            <%--<SettingsAutoLayout Orientation="Horizontal" />--%>
         </dx:ASPxDiagram>
 
         <asp:ObjectDataSource ID="NodeDataSource" runat="server" 
