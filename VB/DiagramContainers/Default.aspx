@@ -1,6 +1,6 @@
 ﻿<%@ Page Language="vb" AutoEventWireup="true" CodeBehind="Default.aspx.vb" Inherits="DiagramContainers.Default" %>
 
-<%@ Register Assembly="DevExpress.Web.ASPxDiagram.v20.1, Version=20.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.Web.ASPxDiagram" TagPrefix="dx" %>
+<%@ Register Assembly="DevExpress.Web.ASPxDiagram.v20.1, Version=20.1.9.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.Web.ASPxDiagram" TagPrefix="dx" %>
 
 <!DOCTYPE html>
 
