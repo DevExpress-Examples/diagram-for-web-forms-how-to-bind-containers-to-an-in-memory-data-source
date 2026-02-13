@@ -18,7 +18,7 @@ This example demonstrates how to bind the Diagram control to an in-memory data s
 [Diagram for Web Forms - Node and Edge data sources - How to bind the control to in-memory data sources](https://github.com/DevExpress-Examples/diagram-for-web-forms-node-and-edge-data-sources-how-to-bind-the-control-to-in-memory-data-sources)  
 [Diagram for Web Forms - Tree from Linear Data Structure - How to bind the control to in-memory data sources](https://github.com/DevExpress-Examples/diagram-for-web-forms-linear-data-structure-how-to-bind-the-control-to-in-memory-data-sources)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=diagram-for-web-forms-how-to-bind-containers-to-an-in-memory-data-source&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=diagram-for-web-forms-how-to-bind-containers-to-an-in-memory-data-source&~~~was_helpful=no)
 
